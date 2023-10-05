@@ -1,4 +1,4 @@
-module github.com/cnovak/emporia
+module github.com/henryouly/emporia
 
 go 1.19
 
